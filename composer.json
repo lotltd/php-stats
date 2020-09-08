@@ -1,5 +1,5 @@
 {
-    "name": "webd/stats",
+    "name": "lotltd/php-stats",
     "description": "A library for computing statistics",
     "autoload": {
         "psr-0": {"": "src/"}
